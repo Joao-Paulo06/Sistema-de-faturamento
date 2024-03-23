@@ -4,27 +4,21 @@ ctk.set_appearance_mode("dark")
 
 
 def faturamento():
-    # Lógica para lidar com a parte de faturamento
     pass
 
 def estoque():
-    # Lógica para lidar com a parte de estoque
     pass
 
 def financeiro():
-    # Lógica para lidar com a parte financeira
     pass
 
 def customizacao():
-    # Lógica para lidar com a customização
     pass
 
 def configuracoes():
-    # Lógica para lidar com as configurações
     pass
 
 def ajuda():
-    # Lógica para lidar com a ajuda
     pass
 
 def sair():
